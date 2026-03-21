@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Gusain</h1>
 <h3 align="center">Java Backend Developer | Spring Boot | REST API | Microservices Learner</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-003-gusain&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-003-gusain" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohan-003-gusain" alt="rohan-003-gusain" /></a> </p>
 
 - 🔭 I’m currently working on [Recruitment System](https://github.com/Rohan-003-Gusain/Recruitment-System)
