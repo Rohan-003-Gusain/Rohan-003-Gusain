@@ -111,4 +111,4 @@ RESTful backend service for managing tasks with validation and modular architect
 
 ## 🐍 Contribution Snake  
 
-![snake gif](https://github.com/Rohan-003-Gusain/Rohan-003-Gusain/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Rohan-003-Gusain/Rohan-003-Gusain/output/github-contribution-grid-snake.svg)
