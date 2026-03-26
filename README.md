@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rohan-003-Gusain/Rohan-003-Gusain/main/banner.png" width="100%" height="320"/>
-  style="border:2px solid #2f81f7; border-radius:12px; margin:20px 0;"
+<img src="https://raw.githubusercontent.com/Rohan-003-Gusain/Rohan-003-Gusain/main/banner.png" width="100%" height="320"
+  style="border:2px solid #2f81f7; border-radius:12px; margin:20px 0;"/>
 </p>
 
 # 👋 Hi, I'm Rohan Gusain  
