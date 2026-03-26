@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rohan-003-Gusain/Rohan-003-Gusain/main/banner.png" width="100%" height="240"/>
+<img src="https://raw.githubusercontent.com/Rohan-003-Gusain/Rohan-003-Gusain/main/banner.png" width="100%" height="300"/>
 </p>
 
 # 👋 Hi, I'm Rohan Gusain  
