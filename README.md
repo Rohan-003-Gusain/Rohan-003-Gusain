@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&size=28&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;Building+Production+Ready+Systems)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=Rohan-003-Gusain&style=for-the-badge&color=blueviolet) 👀
+![](https://komarev.com/ghpvc/?username=Rohan-003-Gusain&label=👀+PROFILE+Visitors&style=for-the-badge&color=blueviolet)
 
 I am passionate about building **production-ready backend systems** and contributing to **open-source learning resources**.  
 I enjoy designing scalable architectures and turning real-world workflows into structured backend solutions.
