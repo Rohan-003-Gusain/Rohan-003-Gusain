@@ -56,6 +56,7 @@ I enjoy designing scalable architectures and turning real-world workflows into s
 [![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://www.netlify.com)
 [![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+
 --- 
 
 ## 🚀 Featured Projects  
