@@ -1,6 +1,12 @@
+![Banner](IMAGE_LINK)
+
 # 👋 Hi, I'm Rohan Gusain  
 
 🚀 **Java Backend Developer | Spring Boot | REST APIs | Cloud Deployment**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&size=28&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;Building+Production+Ready+Systems)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=Rohan-003-Gusain&style=for-the-badge&color=blueviolet)
 
 I am passionate about building **production-ready backend systems** and contributing to **open-source learning resources**.  
 I enjoy designing scalable architectures and turning real-world workflows into structured backend solutions.
@@ -106,3 +112,7 @@ RESTful backend service for managing tasks with validation and modular architect
 👀 Profile Visitors  
 
 ![](https://visitcount.itsvg.in/api?id=Rohan-003-Gusain&icon=0&color=0)
+
+## 🐍 Contribution Snake  
+
+![snake gif](https://github.com/Rohan-003-Gusain/Rohan-003-Gusain/blob/output/github-contribution-grid-snake.svg)
