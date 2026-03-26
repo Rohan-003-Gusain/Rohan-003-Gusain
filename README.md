@@ -1,8 +1,5 @@
-<p align="center">
-<span style="padding:6px; border:2px solid #2f81f7; border-radius:12px; display:inline-block;">
-<img src="https://raw.githubusercontent.com/Rohan-003-Gusain/Rohan-003-Gusain/main/banner.png" width="100%" height="300"/>
-</span>
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Rohan-003-Gusain/Rohan-003-Gusain/main/banner.png" 
+width="100%" height="300"/> </p>
 
 # 👋 Hi, I'm Rohan Gusain  
 
