@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Rohan-003-Gusain/Rohan-003-Gusain/main/banner.png)
+![Banner](https://raw.githubusercontent.com/Rohan-003-Gusain/Rohan-003-Gusain/banner.png)
 
 # 👋 Hi, I'm Rohan Gusain  
 
