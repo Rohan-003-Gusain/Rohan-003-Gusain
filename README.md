@@ -5,7 +5,7 @@ width="100%" height="300"/> </p>
 
 🚀 **Java Backend Developer | Spring Boot | REST APIs | Cloud Deployment**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&size=28&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;Building+Production+Ready+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&size=28&center=true&vCenter=true&width=900&lines=Java+Backend+Engineer;Spring+Boot+%7C+REST+APIs;Building+Production+Ready+Systems)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=Rohan-003-Gusain&label=👀+PROFILE+Visitors&style=for-the-badge&color=blueviolet)
 
