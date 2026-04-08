@@ -62,13 +62,13 @@ I enjoy designing scalable architectures and turning real-world workflows into s
 
 ## 🚀 Featured Projects 
 
-### 💼 Finance Data Processing & Access Control Backend  
+### 💼 Finance Data Processing & Access Control Backend 
 Secure role-based finance management system with transaction processing and analytics dashboard built using Spring Boot.
 
-✔ JWT authentication & role-based authorization (ADMIN / ANALYST / VIEWER)
-✔ Transaction management with soft delete & filtering
-✔ Dashboard analytics (summary, category-wise, monthly trends)
-✔ Clean architecture (DTO, MapStruct, layered services, pagination)
+✔ JWT authentication & role-based authorization (ADMIN / ANALYST / VIEWER)  
+✔ Transaction management with soft delete & filtering  
+✔ Dashboard analytics (summary, category-wise, monthly trends)  
+✔ Clean architecture (DTO, MapStruct, layered services, pagination)  
 
 [![Repo](https://img.shields.io/badge/Repository-View_Code-blue?style=for-the-badge&logo=github)](https://github.com/Rohan-003-Gusain/finance-backend-system)
 [![Swagger](https://img.shields.io/badge/API_Docs-Swagger-green?style=for-the-badge&logo=swagger)](https://finance-backend-system-1lzf.onrender.com)
